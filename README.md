@@ -1,1 +1,2 @@
-# task-mangement-
+# task-management-app
+Tasky
